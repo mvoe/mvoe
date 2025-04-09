@@ -12,7 +12,7 @@ I'm a student with a passion for development in all directions — from low-leve
 
 #### GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvoe-username&show_icons=true&theme=pink)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvoe-&show_icons=true&theme=pink)
 
 #### Most used languages:
 
