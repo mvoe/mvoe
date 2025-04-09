@@ -12,8 +12,8 @@ I'm a student with a passion for development in all directions — from low-leve
 
 #### GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=candy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvoe-username&show_icons=true&theme=pink)
 
 #### Most used languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvoe&layout=compact&theme=candy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvoe&layout=compact&theme=pink)
