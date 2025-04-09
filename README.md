@@ -9,8 +9,9 @@ I'm a student with a passion for development in all directions — from low-leve
 - _I use Arch_ btw 🌚
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/3a1ae9129ff4f8070f5fdf508c896c25/6cd0f396647a7d0b-50/s640x960/208872d53ea50c5d7c23b68d360b73c4a1d3f3c0.gif" alt="Glitch Divider" width="80%" />
+  <img src="https://media2.giphy.com/media/EC1gl2A5oplKMAorkT/giphy.gif?cid=6c09b95234kwvddqhxk443y9qv5ahrb5y0c5zmkdwx7ih3to&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Glitch Divider" width="80%" />
 </p>
+
 
 
 #### Most used languages:
