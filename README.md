@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a student with a passion for development in all directions — from low-level systems to high-level applications.
+I'm a IT student with a passion for development in all directions — from low-level systems to high-level applications.
 
 - 🦀 Especially into **Rust**
 - 💻 Always curious about new technologies
